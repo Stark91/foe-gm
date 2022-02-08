@@ -1,0 +1,33 @@
+0;Population;Fournit Population.;competence0.png
+1;Production de ressources;Produit des ressources aléatoires de l'âge du joueur toutes les 24 heures. À partir de l'Ère Moderne, produit deux fois plus de ressources non raffinées.;competence1.png
+2;Amélioration militaire;Les unités d'attaque voient leurs valeurs d'attaque et de défense augmentées d'un certain pourcentage.;competence2.png
+3;Satisfaction;Fournit Satisfaction.;competence3.png
+4;Production de médailles;Produit Médailles toutes les 24 heures.;competence4.png
+5;Amélioration marchandises;Les premières collectes de production de Marchandises sont augmentées d'un certain pourcentage.;competence5.png
+6;Recherches;Produit Points Forge toutes les 24 heures.;competence6.png
+7;Production de pièces;Produit Pièces toutes les 24 heures.;competence7.png
+8;Amélioration pièces;Les premières collectes de production de Pièces sont augmentées d'un certain pourcentage.;competence8.png
+9;Production de marchandises;Produit Marchandises toutes les 24 heures.;competence9.png
+10;Résistance féroce;Les unités de défense voient leurs valeurs d'attaque et de défense augmentées d'un certain pourcentage. La guilde voit aussi sa réserve de soutien augmenter.;competence10.png
+11;Amélioration relative aux récompenses de quête;Les pièces, marchandises, ressources, diamants et médailles reçus en guise de récompenses de quête sont augmentés d'un certain pourcentage.;competence11.png
+12;Unité pénitentiaire;Produit des unités sans rattachement d'un bâtiment militaire dans la cité du joueur toutes les 24 heures. Le temps peut être réduit par le bonus de recrutement de guilde.;competence12.png
+13;Bonus de réserve de soutien;La guilde voit sa réserve de soutien augmenter.;competence13.png
+14;Ressources de la guilde;Produit une certaine quantité de chaque ressource actuelle pour la trésorerie de la guilde. Ne se collecte qu'en étant membre d'une guilde.;competence14.png
+15;Ressources d'entraide;Les premières fois que vous aidez un bâtiment, vous recevez une ressource aléatoire de l'âge du bâtiment.;competence15.png
+16;Ressources de pillage;Lors de vos premiers pillages d'un bâtiment, vous recevez une ressource aléatoire de l'âge du bâtiment.;competence16.png
+17;Bonus de contribution;Les récompenses de contribution augmentent d'un certain pourcentage.;competence17.png
+18;Plans d'entraide;Augmente la chance de trouver un plan en aidant un autre joueur.;competence18.png
+19;Aide entre membres;Ajoute une chance d'obtenir un bonus en aidant les autres joueurs.;competence19.png
+20;Chasse à la relique;Chance de faire apparaître une relique cachée sur la carte d'expédition de guilde après avoir résolu une rencontre.;competence20.png
+21;Coup critique;Accorde une chance d'infliger 150 % de dégâts aux unités du même âge.;competence21.png
+22;Pillage et saccage;Ajoute une chance de doubler les richesses pillées.;competence22.png
+23;Première frappe;Lors des premières batailles, vous avez une chance de tuer une unité ennemie au début du combat. La compétence ne s'applique qu'à la première vague des batailles en deux vagues.;competence23.png
+24;Collecte doublée;Pour les premiers bâtiments collectés, vous avez une chance de doubler les richesses obtenues. Exclut les Grands Monuments et les bâtiments militaires.;competence24.png
+25;Tactiques avancées;Les unités d'attaque et de défense voient leurs valeurs d'attaque et de défense augmentées d'un certain pourcentage.;competence25.png
+26;Butins de guerre;Les premières victoires ont une chance de vous octroyer une récompense aléatoire.;competence26.png
+27;Production de ressources de l'ère précédente;Produit des ressources aléatoires de l'âge précédent du joueur toutes les 24 heures. Produit des ressources de l'Âge du Bronze pendant l'Âge du Bronze.;competence27.png
+28;Lancement de missile;Lors des premières batailles, vous avez une chance de tuer la moitié des unités ennemies au début du combat. La compétence ne s'applique qu'à la première vague des batailles en deux vagues.;competence28.png
+29;Cadeaux diplomatiques;Les premières combinaisons réussies lors d'une négociation (colonies exclues) ont une chance de vous octroyer une récompense aléatoire.;competence29.png
+30;Navette orbitale;Produit des richesses spéciales toutes les 24 heures après avoir atteint le Futur arctique. Les chances et types de richesses spéciales varient dans les âges ultérieurs au Futur arctique. Produit des médailles des âges précédents.;competence30.png
+31;Résistance au pillage;Les premières tentatives de pillage que nous subissons ont une chance d'être repoussées.;competence31.png
+32;Éclats mystérieux;Une chance de faire apparaître une récompense d'éclat dans la Colonie culturelle active.;competence32.png
